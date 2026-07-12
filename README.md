@@ -40,4 +40,4 @@ Every job's lifecycle (`IN_PROGRESS`, `COMPLETED`, `ERRORED`) is tracked in real
 5. Click **FLOOD QUEUE** to push 5,000 jobs into the engine and watch the workers dynamically scale up in real-time!
 
 ## 📹Gif
-https://github.com/user-attachments/assets/dbfe81f6-b78c-40cf-8799-122cb0fcf8e1
+<img width="800" height="428" alt="demo" src="https://github.com/user-attachments/assets/642dfc96-194c-4fe3-8fe4-76789bbc1f37" />
